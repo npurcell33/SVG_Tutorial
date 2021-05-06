@@ -1,0 +1,55 @@
+This is an SVG Tutorial For beginner Developers!
+
+The first step in the SVG Tutorial is to setup an HTML document using the correct HTML tags.
+The tags are as follows:
+
+<!Doctype html>
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
+
+After the tags are properly setup, you may choose to start your SVG tag inside the body tag.
+
+<!Doctype html>
+<html>
+  <head>
+  </head>
+    <body>
+      <svg>
+      </svg>
+    </body>
+</html>
+
+The next step is to incorporate whichever SVG tags that are specific to your desire, an example of that may be to construct an SVG circle.
+
+<!Doctype html>
+<html>
+  <head>
+  </head>
+    <body>
+      <svg width="100" height="100">
+           <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+      </svg>
+    </body>
+</html>
+
+One more example to use as a reference that is a little more in depth in terms of creativity is ellipses.
+
+<!Doctype html>
+<html>
+  <head>
+  </head>
+    <body>
+      <svg height="150" width="500">
+        <ellipse cx="240" cy="100" rx="220" ry="30" style="fill:purple" />
+        <ellipse cx="220" cy="70" rx="190" ry="20" style="fill:lime" />
+        <ellipse cx="210" cy="45" rx="170" ry="15" style="fill:yellow" />
+      </svg>
+    </body>
+</html>
+
+With a better understanding of Scalable Vector Graphics through this Tutorial, developers have opened up a bridge for more creative endless opportunities.
+Enjoy the Tutorial!
